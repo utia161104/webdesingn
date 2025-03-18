@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Xing Fu Tang Menu </title>
+
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 35px;
+            color: rgb(48, 2, 2);
+        }
+        h1{
+            text-align: center;
+            color: #ff0b0b;
+        }
+        h2 {
+            color: #50534a; 
+        }
+        table {
+            width: 60%;
+            
+        }
+        th, td {
+            border: 1px solid #c7576f;
+            padding: 15px;
+            text-align: left;
+        }
+        B
+       
+    </style>
+</head>
+<body>
+    <h1>Xing Fu Tang Menu </h1>
+
+    <h2>The Signatures</h2>
+    <table>
+        <tr>
+            <div class="menu-item">
+                <img src="download (1).jpg" alt="coffe">
+                <h2> coffe</h2>
+                <p class="price">15.000</p>
+                </div>
+            <td>Brown Sugar Boba Milk</td>
+            <td>37 / 44 / 49</td>
+            <img src="istockphoto-1444027658-612x612.jpg" alt="Brown Sugar Boba Milk"width="150px">
+        </tr>
+        <tr>
+            <td>Taiwan 1984 Milk Tea</td>
+            <td>32 / 39 / 44</td>
+        </tr>
+        <tr>
+            <td>Brown Sugar Boba Black Tea Latte</td>
+            <td>31 / 38 / 43</td>
+        </tr>
+        <tr>
+            <td>Matcha Boba Milk</td>
+            <td>28 / 35 / 40</td>
+        </tr>
+        <tr>
+            <td>Strawberry Boba Milk</td>
+            <td>28 / 35 / 40</td>
+        </tr>
+    </table>
+
+    <h2>Ovaltine Series</h2>
+    <table>
+        <tr>
+            <td>Brown Sugar Boba Ovaltine Milk</td>
+            <td>35 / 40 / 45</td>
+        </tr>
+        <tr>
+            <td>Crunchy Ovaltine Macchiato</td>
+            <td>35 / 40</td>
+        </tr>
+        <tr>
+            <td>Ovaltine Macchiato</td>
+            <td>32 / 37</td>
+        </tr>
+        <tr>
+            <td>Ovaltine Milk</td>
+            <td>32 / 37</td>
+        </tr>
+    </table>
+
+    <h2>ChocoMilk Series</h2>
+    <table>
+        <tr>
+            <td>Brown Sugar Boba ChocoMilk</td>
+            <td>37 / 44 / 49</td>
+        </tr>
+        <tr>
+            <td>ChocoMilk with Cream Mousse</td>
+            <td>31 / 38 / 43</td>
+        </tr>
+        <tr>
+            <td>ChocoMilk</td>
+            <td>28 / 35 / 40</td>
+        </tr>
+    </table>
+
+    <h2>Special This Month!</h2>
+    <table>
+        <tr>
+            <td>Brown Sugar Boba with Banana Milk</td>
+            <td>40 / 45</td>
+        </tr>
+    </table>
+
+    <h2>Back to Basic</h2>
+    <table>
+        <tr>
+            <td>Ice Black Tea</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>Ice Green Tea</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>Ice Earl Grey Tea</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>Ice Strawberry Mango Tea</td>
+            <td>22</td>
+        </tr>
+        <tr>
+            <td>Lightly Roasted Oolong Tea</td>
+            <td>22</td>
+        </tr>
+    </table>
+
+    <h2>Lemon Punch</h2>
+    <table>
+        <tr>
+            <td>Lemon Punch Green Tea</td>
+            <td>25 / 29</td>
+        </tr>
+        <tr>
+            <td>Lemon Punch Lady Grey Tea</td>
+            <td>25 / 29</td>
+        </tr>
+        <tr>
+            <td>Lemon Punch Passionfruit Tea</td>
+            <td>25 / 29</td>
+        </tr>
+        <tr>
+            <td>Lemon Punch Strawberry Mango Tea</td>
+            <td>25 / 29</td>
+        </tr>
+        <tr>
+            <td>Lemon Punch Earl Grey Tea</td>
+            <td>25 / 29</td>
+        </tr>
+    </table>
+
+    <h2>Earl Grey Boba Series</h2>
+    <table>
+        <tr>
+            <td>Orange Passionfruit Tea</td>
+            <td>35 / 40</td>
+        </tr>
+        <tr>
+            <td>Strawberry Mint Tea</td>
+            <td>35 / 40</td>
+        </tr>
+        <tr>
+            <td>Lemon & Peach Fresh Tea</td>
+            <td>35 / 40</td>
+        </tr>
+    </table>
+
+    <h2>Fizzz me up! Series</h2>
+    <table>
+        <tr>
+            <td>Royal Soda with Konjac Jelly</td>
+            <td>25 / 32 / 37</td>
+        </tr>
+        <tr>
+            <td>Strawberry Punch</td>
+            <td>25 / 32 / 37</td>
+        </tr>
+    
+</body>
+</html>
